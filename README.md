@@ -47,9 +47,10 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/satyajitsjs/satyajitsjs/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img src="https://raw.githubusercontent.com/satyajitsjs/satyajitsjs/output/snake.svg" alt="Snake animation" />
+
+<br/><br/><br/>
+
 </div>
 
 <hr/>
