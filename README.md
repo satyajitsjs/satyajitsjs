@@ -38,8 +38,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,django,c,cs,ruby,jquery,flask,go" /><br>
-    <img src="https://skillicons.dev/icons?i=react,redux,sqlserver,mysql,postgresql,mongodb,firebase,git,sass" /><br>
-    <img src="https://skillicons.dev/icons?i=anaconda,android,arduino,aws,azure,bootstrap,docker,figma,jenkins,linux,postman,pytorch,tensorflow" /><br>
+    <img src="https://skillicons.dev/icons?i=react,redux,sqlite,mysql,postgresql,mongodb,firebase,git,sass" /><br>
+    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,arduino,aws,azure,bootstrap,docker,figma,jenkins,linux,postman,pytorch,tensorflow" /><br>
 </div>
 
 
