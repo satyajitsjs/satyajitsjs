@@ -39,7 +39,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,java,javascript,jenkins,linux,mongodb,mysql,sqlite" /><br>
     <img src="https://skillicons.dev/icons?i=postman,pytorch,python,react,redux,rust,sass,tensorflow,typescript,git" /><br>
-    <img src="https://skillicons.dev/icons?i=android,arduino,aws,azure,bootstrap,c,css,django,docker,figma,firebase,flask,,go" /><br>
+    <img src="https://skillicons.dev/icons?i=android,arduino,aws,azure,bootstrap,c,css,django,docker,figma,firebase,flask,go" /><br>
 </div>
 
 <br/>
