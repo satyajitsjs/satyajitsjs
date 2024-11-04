@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Bariflo Cybernatics**
+ 🔭 I’m currently working on **Tritech Software**
  
  🌱 I’m currently learning **DSA, React Native, AWS**
 
