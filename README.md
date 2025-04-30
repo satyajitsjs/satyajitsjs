@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Tritech Software**
+ 🔭 I’m currently working on **SmartX Technology**
  
  🌱 I’m currently learning **DSA, React Native, AWS**
 
